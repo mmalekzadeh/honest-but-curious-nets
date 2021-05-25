@@ -1,7 +1,7 @@
 ##################
 DATA_PREPROCESSING = 1 ### For the first time you need to set `DATA_PREPROCESSING=1` 
-RANDOM_SEED = 1 ### The random seed for reproducibility. 
 IMAGE_SIZE = 64         ### 64 for 64x64 or 32 for 32x32
+RANDOM_SEED = 0 ### The random seed for reproducibility. 
 ################### When using UTK dataset, please uncomment this part and comment out the CelebA part below
 # DATASET = "utk_face"    ### Total images are 23705
 # TRAIN_SHARE = 18964     ### Then the Test_Share is (23705 - TRAIN_SHARE)
