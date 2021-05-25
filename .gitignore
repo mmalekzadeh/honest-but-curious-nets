@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+hbcnets/data/UTKFace
+hbcnets/data/celeba
+hbcnets/data/temp
