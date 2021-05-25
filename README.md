@@ -1,4 +1,5 @@
 # Honest-but-Curious Nets
+**arXiv**: 
 
 **Title:**
 > Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs
