@@ -29,7 +29,7 @@
 
 # How to Run Experiments
 
-All you need to do is to run
+All you need is to run
 ```
 > python main.py 
 ```
