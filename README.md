@@ -33,7 +33,7 @@ All you need is to run
 ```
 > python main.py 
 ```
-But before that, it will be much helpful to:
+But before that, it will be much helpful if you:
 1. Make sure you have read the paper once :-)
 2. Open `hbcnets/constants.py` and set up the desired environent. There are multiple parameters there that you can play with.
 3. Use the arguments in `setting.py` for running your desired experiments.
