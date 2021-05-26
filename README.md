@@ -58,10 +58,8 @@ Please use:
 ```
 @article{malekzadeh2021honestbutcurious,
     title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs},
-    author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},
-    year={2021},
-    eprint={2105.12049},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+    author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},  
+    journal={arXiv preprint arXiv:2105.12049},
+    year={2021}
 }
 ```
