@@ -1,5 +1,5 @@
 # Honest-but-Curious Nets
-**arXiv**: 
+**arXiv**: https://arxiv.org/abs/2105.12049
 
 **Title:**
 > Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs
@@ -33,20 +33,35 @@ All you need is to run
 ```
 > python main.py 
 ```
-But before that, it will be much helpful to:
+But before that, it will be much helpful if you:
 1. Make sure you have read the paper once :-)
 2. Open `hbcnets/constants.py` and set up the desired environent. There are multiple parameters there that you can play with.
 3. Use the arguments in `setting.py` for running your desired experiments.
 
+## Experimental Setup:
+In `hbcnets/constants.py` you can find the following parameterts:
+
+- `DATASET`: You can choose `utk_face` or `celeba`.
+- `HONEST`: This is the `target` attribut (i.e., `y`) in the paper. Use this to set your desired attribute.
+- `K_Y`: After setting `HONEST`, you need to set the size of possible values. This is `Y` in the paper.
+- `CURIOUS`: This is the `sensitive` attribut (i.e., `s`) in the paper. Use this to set your desired attribute.
+- `K_S`: After setting `CURIOUS`, you need to set the size of possible values. This is `S` in the paper.
+- `BETA_X`, `BETA_Y`, `BETA_S`: These are trade-off hyper-parameteres with the same name in the paper.
+- `SOFTMAX`: This allow us to decided whtehre we want to release the `soft` outputs (`True`) or the `raw` outputs (`False`).
+
+- `RANDOM_SEED`: You can use this alongside [these lines](https://github.com/mmalekzadeh/honest-but-curious-nets/blob/fcc023098dd894509677a4997fa9db53f7f08ef0/main.py#L12)  in `main.py` to keep your results reproducible. 
+- `DATA_PREPROCESSING`: When using a dataset for the first time, you need to set this to 1, after that it can be 0 to save time.
+- `IMAGE_SIZE`: The default is 64 (i.e., 64x64), but you can change this to get other resolutions. Notice that if you change this, you need to set `DATA_PREPROCESSING=1` for the first time.
 
 # Citation
 Please use:
 ```
-@article{malekzadeh2021honest,
-  title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs 
-         can be Secretly Coded into the Entropy of Classifiers' Outputs},
-  author={Malekzadeh, Mohammad and Borovykh, Anastasia and Gündüz, Deniz},
-  journal={},
-  year={2021}
+@article{malekzadeh2021honestbutcurious,
+    title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs},
+    author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},
+    year={2021},
+    eprint={2105.12049},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
