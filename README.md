@@ -1,6 +1,8 @@
 # Honest-but-Curious Nets
 **arXiv**: https://arxiv.org/abs/2105.12049
 
+The paper is accepted for ACM CCS 2021 subject to minor edits, which will be done soon :-) 
+
 **Title:**
 Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs
 
@@ -35,7 +37,7 @@ All you need is to run
 ```
 But before that, it will be much helpful if you:
 1. Make sure you have read the paper once :-)
-2. Open `hbcnets/constants.py` and set up the desired environent. There are multiple parameters there that you can play with.
+2. Open `hbcnets/constants.py` and set up the desired setting. There are multiple parameters that you can play with (see below).
 3. Use the arguments in `setting.py` for running your desired experiments.
 
 ## Experimental Setup:
