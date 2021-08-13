@@ -4,7 +4,7 @@
 The paper is accepted for ACM CCS 2021 subject to minor edits, which will be done soon :-) 
 
 **Title:**
-Honest-but-Curious Nets: Sensitive Attributes of Private Inputs can be Secretly Coded into the Entropy of Classifiers' Outputs
+Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs
 
 **Abstract:**
 
@@ -60,7 +60,7 @@ Please use:
 ```
 @article{malekzadeh2021honestbutcurious,
     title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs 
-           can be Secretly Coded into the Entropy of Classifiers' Outputs},
+           Can Be Secretly Coded into the Classifiers' Outputs},
     author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},  
     journal={arXiv preprint arXiv:2105.12049},
     year={2021}
