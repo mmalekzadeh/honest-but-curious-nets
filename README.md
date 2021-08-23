@@ -1,10 +1,9 @@
-# Honest-but-Curious Nets
+# Honest-but-Curious Nets (ACM CCS'21)
 **arXiv**: https://arxiv.org/abs/2105.12049
-
-The paper is accepted for ACM CCS 2021 subject to minor edits, which will be done soon :-) 
 
 **Title:**
 Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs
+(Accepted for ACM SIGSAC Conference on Computer and Communications Security (CCS '21), November 15–19, 2021.)
 
 **Abstract:**
 
