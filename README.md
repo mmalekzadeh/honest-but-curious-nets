@@ -56,11 +56,11 @@ In `hbcnets/constants.py` you can find the following parameterts:
 
 # Citation
 Please use:
-
+```
 @inproceedings{malekzadeh2021honest,
-  title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs 
-           Can Be Secretly Coded into the Classifiers' Outputs},
-  author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},  
-  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS '21)},
-  year={2021}
+title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
+author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},  
+booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS '21)},
+year={2021}
 }
+```
