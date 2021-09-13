@@ -56,7 +56,7 @@ In `hbcnets/constants.py` you can find the following parameterts:
 
 # Citation
 Please use:
-```
+```bibtex
 @inproceedings{malekzadeh2021honest,
 title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
 author={Malekzadeh, Mohammad and Borovykh, Anastasia and G{\"u}nd{\"u}z, Deniz},
