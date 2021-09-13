@@ -59,7 +59,7 @@ Please use:
 ```
 @inproceedings{malekzadeh2021honest,
 title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
-author={Mohammad Malekzadeh and Anastasia Borovykh and Deniz Gündüz},  
+author={Malekzadeh, Mohammad and Borovykh, Anastasia and G{\"u}nd{\"u}z, Deniz},
 booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS '21)},
 year={2021}
 }
