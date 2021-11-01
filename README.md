@@ -3,11 +3,11 @@
 
 **Title:**
 Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs
-(ACM SIGSAC Conference on Computer and Communications Security (CCS '21), November 15–19, 2021.)
-
-Presentation Video: https://www.youtube.com/watch?v=G35467ddItk
+(ACM SIGSAC Conference on Computer and Communications Security (CCS '21), November 15–19, 2021.) 
 
 Slides: https://github.com/mmalekzadeh/honest-but-curious-nets/blob/main/HBC_Nets_Slides.pdf
+
+Presentation Video will be released later due to the ACM copyright rules.
 
 **Abstract:**
 
