@@ -43,6 +43,10 @@ But before that, it will be much helpful if you:
 2. Open `hbcnets/constants.py` and set up the desired setting. There are multiple parameters that you can play with (see below).
 3. Use the arguments in `setting.py` for running your desired experiments.
 
+** If you like to use Google Colab, please look at this notebook: `Colab_Version_of_Main.ipynb`
+
+> https://github.com/mmalekzadeh/honest-but-curious-nets/blob/main/Colab_Version_of_Main.ipynb
+
 ## Experimental Setup:
 In `hbcnets/constants.py` you can find the following parameterts:
 
