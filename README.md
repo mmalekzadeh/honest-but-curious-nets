@@ -7,7 +7,7 @@ Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly 
 
 Slides: https://github.com/mmalekzadeh/honest-but-curious-nets/blob/main/HBC_Nets_Slides.pdf
 
-Presentation Video will be released 20 Nov 2021 (due to the ACM copyright rules).
+Presentation Video: https://www.youtube.com/watch?v=G35467ddItk
 
 **Abstract:**
 
