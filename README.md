@@ -1,5 +1,8 @@
 # Honest-but-Curious Nets (ACM CCS'21)
-**arXiv**: https://arxiv.org/abs/2105.12049
+
+**Official Paper**: https://dl.acm.org/doi/10.1145/3460120.3484533
+
+**ArXiv Version**: https://arxiv.org/abs/2105.12049
 
 **Title:**
 Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs
@@ -34,6 +37,8 @@ Presentation Video: https://www.youtube.com/watch?v=G35467ddItk
 
 # How to Run Experiments
 
+> This code is tested on Pytorch V 1.9.1 (use `!pip install torch==1.9.1`)
+
 All you need is to run
 ```
 > python main.py 
@@ -66,9 +71,14 @@ In `hbcnets/constants.py` you can find the following parameterts:
 Please use:
 ```bibtex
 @inproceedings{malekzadeh2021honest,
-title={Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
-author={Malekzadeh, Mohammad and Borovykh, Anastasia and G{\"u}nd{\"u}z, Deniz},
-booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS '21)},
-year={2021}
+author = {Malekzadeh, Mohammad and Borovykh, Anastasia and G\"{u}nd\"{u}z, Deniz},
+title = {Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers' Outputs},
+year = {2021},
+publisher = {Association for Computing Machinery},
+doi = {10.1145/3460120.3484533},
+booktitle = {Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {825–844},
+numpages = {20},
+series = {CCS '21}
 }
 ```
