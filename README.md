@@ -1,5 +1,7 @@
 # Honest-but-Curious Nets (ACM CCS'21)
 
+**(You might also be interested in our follow-up work: https://github.com/mmalekzadeh/vicious-classifiers)**
+
 **Official Paper**: https://dl.acm.org/doi/10.1145/3460120.3484533
 
 **ArXiv Version**: https://arxiv.org/abs/2105.12049
